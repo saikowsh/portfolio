@@ -1,0 +1,23 @@
+.set{
+    color: rgb(255, 0, 0);
+}
+
+.appbutton{
+    margin-left: 50px ;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: column;
+    color:red;
+    background-color: black;
+    width: 111px;
+    gap: 40px; 
+    position: relative;
+}
+.arrow{
+    font-size: 40px;
+    position: absolute;
+    z-index: 1;
+    left: 90px;
+}
